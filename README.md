@@ -9,6 +9,6 @@ INSTALL:
 
 
 '
-<script src="/IP&MSG_log/saveIP.php"></script>
-<script src="/IP&MSG_log/COMMENTS.php"></script>
+<script src="/saveIP.php"></script>
+<script src="/userdata.php"></script>
 '
