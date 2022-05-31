@@ -1,0 +1,7 @@
+ ↛ 
+TIME: 10/22/2018 08:10:55 | COMMENT: another darn test, ENOUGH!!! | T1guy | ADDRESS: 68.47.9.79 ↛ 
+TIME: 10/22/2018 08:22:04 | COMMENT: Running our of unique comments to type! | SysCheck | ADDRESS: 68.47.9.79 ↛ 
+TIME: 10/26/2018 05:05:29 | COMMENT: Using this as a private Blog im writing about Fallout: Doomfield... IVE STARTED CODING, well retexturing 1995 Doom into a new Fallout franchise title. I figured they reworked doom into the fallout engine, why not the other way around. GOAL: to make a free roam sandbox title of fallout flavor capable of running on basically any modern smartphone, the web, and pc's.... eventually convincing bethesda to buy it for crossplatform multiplayer |  | ADDRESS: 68.47.9.79 ↛ 
+TIME: 10/26/2018 05:10:45 | COMMENT: uhm Doomfield, hmm name derived from Springfield and Doom, the fictional meta's to my data. Im going to add as much ref as pos with them in fallout theme. HAVE BEGUN writing in new sprite models, using SLADE, writing out of a WIN DOS copy of the doom.wad, in any case im going to write it into a swf eventually |  | ADDRESS: 68.47.9.79 ↛ 
+TIME: 10/28/2018 01:29:42 | COMMENT: Test message for the new footer | SELF | ADDRESS: 68.47.9.79 ↛ 
+TIME: 10/28/2018 06:11:32 | COMMENT: Fallout Doomfield has been updated to the shotgun and pistol in fallout theme, just realized doom has active shadows... must figure this out for building shadows! | Jake W | ADDRESS: 68.47.9.79
